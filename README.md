@@ -81,13 +81,8 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 ---
-
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="giraldiego's github stats" src="https://github-readme-stats.vercel.app/api?username=giraldiego&show_icons=true&hide_border=true" />
-</a>
-
 <!-- 
-<a href="https://github.com/zjayers/github-readme-stats">
+<a href="https://github.com/giraldiego/github-readme-stats">
    <img width="60%" alt="giraldiego's github stats" src="https://github-readme-stats.vercel.app/api?username=giraldiego&show_icons=true&hide_border=true" />
 </a>
 -->
