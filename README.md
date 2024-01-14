@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-##  Hi there 👋, I'm Diego Giraldo!
+##  Hi there 👋!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
