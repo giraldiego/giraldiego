@@ -24,12 +24,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Enermast](https://www.enermast.com)__.
 - I’m currently learning __LLMs and Generative AI__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a chemical engineer before becoming a Data Scientist/ML engineer.
-- How to reach me: __giraldiego@gmail.com__
 
 ---
 
