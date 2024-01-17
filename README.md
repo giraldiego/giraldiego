@@ -80,6 +80,4 @@ You can use the website to generate badges: https://shields.io/
 -->
 -----
 
-Credits: [giraldiego](https://github.com/giraldiego)
-
 Last Edited on: 14/01/2024
